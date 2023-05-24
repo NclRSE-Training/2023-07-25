@@ -13,7 +13,7 @@ enddate: 2023-07-25
 instructor: ["TBA", ""] 
 helper: ["TBA"]     
 email: ["jannetta.steyn@newcastle.ac.uk","michelle.gilbride@newcastle.ac.uk"]    
-collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-07-18-NCL
+collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-07-25-NCL
 eventbrite:           
 ---
 
