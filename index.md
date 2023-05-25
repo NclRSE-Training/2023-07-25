@@ -1,6 +1,6 @@
 ---
 layout: workshop      
-venue: "TBA"        
+venue: "Henry Daysh Building 1.14 PC"        
 address: "Newcastle University"      
 country: "gb"      
 language: "en"     
@@ -10,7 +10,7 @@ humandate: "July 25, 2023"
 humantime: "09:00 - 17:00 UTC"    
 startdate: 2023-07-25
 enddate: 2023-07-25
-instructor: ["TBA", ""] 
+instructor: ["Kate Court", "Robin Nandi"] 
 helper: ["TBA"]     
 email: ["jannetta.steyn@newcastle.ac.uk","michelle.gilbride@newcastle.ac.uk"]    
 collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-07-25-NCL
